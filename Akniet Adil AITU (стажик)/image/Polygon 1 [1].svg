@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" width="17" height="19">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f4f5f7 } 
+	</style>
+	<g id="Header">
+		<g id="Play Video Icon" style="opacity: 0.6">
+			<path id="Polygon 1" class="shp0" d="M17 9.5L0 19L0 0L17 9.5Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #4e4e5e;stroke: #1d1e24;paint-order:stroke fill markers;stroke-width: 4 } 
+	</style>
+	<g id="Clients">
+		<g id="Client-1">
+			<path id="Rectangle 28" class="shp0" d="M2 2L78 2L78 78L2 78L2 2Z" />
+		</g>
+	</g>
+</svg>
